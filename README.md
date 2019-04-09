@@ -10,29 +10,25 @@ The project includes programming, administering a web server, configuring, devel
 
 ## Environment diagram
 
-![image](https://github.com/vitalidn/DP157.Team1.Demo3/blob/master/images/01.jpg)
+![image](https://github.com/vitalidn/Demo3/blob/master/images/01.jpg)
 
-![image](https://github.com/vitalidn/DP157.Team1.Demo3/blob/master/images/02.jpg)
-
-
-![image](https://github.com/vitalidn/DP157.Team1.Demo3/blob/master/images/03.jpg)
+![image](https://github.com/vitalidn/Demo3/blob/master/images/02.jpg)
 
 
-![image](https://github.com/vitalidn/DP157.Team1.Demo3/blob/master/images/04.jpg)
+![image](https://github.com/vitalidn/Demo3/blob/master/images/03.jpg)
+
+
+![image](https://github.com/vitalidn/Demo3/blob/master/images/04.jpg)
 
 
 
 
 ## Technology stack
 ### For realise the main task has chosen next Tools
-* Docker Desktop Community version 2.0.0.03(31259)
+
    
 
-### For realise the main task has chosen next docker images:
-* SQL Server 2017 v14.00.3017 (mcr.microsoft.com/mssql/server:2017-latest-ubuntu)
-* .NET Core SDK v2.2.104 (microsoft/dotnet:2.2-sdk)
-* ASP.NET Core Runtime v2.2.104 (microsoft/dotnet:2.2-aspnetcore-runtime)
-* 
+
 
 ## Runbook
 1. Download and install Docker Desktop for Windows and Visual Studio 2017 .
